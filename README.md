@@ -42,16 +42,18 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+![alt text](<img/Screenshot from 2024-08-23 10-35-41.png>)
 
 
 
 cat < file2
 ## OUTPUT
-
+![alt text](<img/Screenshot from 2024-08-23 10-35-50.png>)
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
+![alt text](<img/Screenshot from 2024-08-22 16-20-41.png>)
  
 comm file1 file2
  ## OUTPUT
